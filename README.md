@@ -1,4 +1,4 @@
 ✨ Studying
 
-![version](https://img.shields.io/badge/Newbie-v0.0.2-blue)
+![](https://komarev.com/ghpvc/?username=gfzum)
 
